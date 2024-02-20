@@ -20,3 +20,11 @@ An important characteristic of Black Mountain businesses is the large amount of 
 These traditional payment rails extract value and monitor a vibrant circular economy. This is where a fedimint can be leveraged to remove unjust surveillance and remove friction from the financial life blood of a thriving local economy.
 
 A discussed, fedimint are not without risk. We determined the governance structure of a fedimint must align guardian incentives with the members to minimize the risk. Take for example a credit union. Board members in a credit union are elected by the members of the credit union. A similar approach can be used in a fedimint that provides specific services to a community. In the business-to-business example the guardian can be elected by the members. If our members are all business owners, the most trusted business owners in the community will be elected as guardians. These guardians rely on business from the members in the fedimint. It would be detrimental for them to undermine the well being of the fedimint. The incentives are aligned.
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
