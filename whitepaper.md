@@ -1,1 +1,8 @@
-# Fedimint as a local business-to-business medium of exchange
+## Fedimints as a local business-to-business medium of exchange
+
+#### 1. Introduction
+Fedimints are a relativley new technology that use Federated Chaumian eCash as a medium of exchange within the federated mint (fedimint). Each fedimint is its own ecosystem, however the Fedimint implementation does allow for sending funds between fedimints using the Lightning network.
+
+Let's take a step back to a higher level to see how fedimints align with the needs of a local community's business-to-business relationships and why it is a good fit. 
+
+1. We need to understand how fedimints are structrually governed. Fedimints operate with Bitcoin as their reserve asset. A 'member' of the fedimint deposits bitcoin and in return received the equivilant amount of eCash. With this eCash the member can transact with other members on the fedimint. It is a circular economy. Members can withdrawl their bitcoin by turning in their eCash. In this way it functions similar to a traditional bank and this is where the structure of the 'guardians' is critical to the success and longevity of every fedimint. 'Guardians' control the bitcoin held in reserve. Each one holds a key to a multisig wallet containing the bitcoin reserves of the fedimint. The specifics of the multisig can be configured when the fedimint is established. The Fedimint implementation has standards for the minimum number of signatures on the multisig to encourage responsible governance, but this is just a first step. This is where local community business-to-business is a great fit. We will dive deeper shortly after we cover privacy next.
