@@ -27,8 +27,10 @@ A discussed, fedimint are not without risk. We determined the governance structu
 
 ```mermaid
 graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+   A[Brewing Supplier]-->Brewery
+   Brewery-->B[Brewery Pub];
+   Brewery-->Restaurant;
+   Bakery-->Restaurant;
+   Artist-->Gallery;
+   Farmer-->Restaurant;
 ```
