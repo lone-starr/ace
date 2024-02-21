@@ -36,5 +36,14 @@ graph TD;
 ##### Aligning incentives
 A discussed, fedimints are not without risk. We determined the governance structure of a fedimint must align guardian incentives with the members to minimize the risk. Take for example a credit union. Board members in a credit union are elected by the members of the credit union. A similar approach can be used in a fedimint that provides services to a tight-knit local community. In the local business-to-business example, the guardians can be elected by the members. If our members are all business owners, the most trusted business owners in the community will be elected as guardians. These guardians rely on business partnerships from the members in the fedimint. It would be detrimental for them to undermine the well being of the fedimint. The incentives are aligned.
 
-##### Medium of exchange
+##### Monetary Attributes
+Traditionally when we think of money, we think in terms of fiat currency issued by centralized institutions like the Federal Reserve or European Central Bank. Essentially we think in dollars ($). Just as in the past when we thought of money in terms of commodities like silver and gold, in the future we will think of money in terms of the digital commodity, bitcoin (&#8383;).
+
+###### Medium of exchange
+In its most simple terms, medium of exchange is the ‘medium’ in which we exchange goods and services. The most efficient means of transacting near limitless types of goods and services is for the community to agree on a common medium of exchange. This was the major public justification of Europe’s switch from individual nation-state currencies to the Euro (&euro;). In the US, we have benefited from the petrodollar, pricing of OPEC oil transactions in dollars (&#8383;). Recently both the Euro and Dollar are threatened, respectively, with Brexit and OPEC pricing oil in BRICS currencies, specifically the Chinese Yuan. The lesson to be learned from recent events is means of medium of exchange are fluid. They change over time.
+
+###### Unit of account
+
+###### Store of value
+
 
