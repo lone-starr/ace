@@ -36,4 +36,5 @@ graph TD;
 ##### Aligning incentives
 A discussed, fedimints are not without risk. We determined the governance structure of a fedimint must align guardian incentives with the members to minimize the risk. Take for example a credit union. Board members in a credit union are elected by the members of the credit union. A similar approach can be used in a fedimint that provides services to a tight-knit local community. In the local business-to-business example, the guardians can be elected by the members. If our members are all business owners, the most trusted business owners in the community will be elected as guardians. These guardians rely on business partnerships from the members in the fedimint. It would be detrimental for them to undermine the well being of the fedimint. The incentives are aligned.
 
+##### Medium of exchange
 
