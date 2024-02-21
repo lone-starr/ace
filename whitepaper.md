@@ -28,8 +28,9 @@ graph TD;
    Brewery-->B[Brewery Pub];
    Brewery-->Restaurant;
    Bakery-->Restaurant;
-   Artist-->Gallery;
+   Farmer-->Bakery;
    Farmer-->Restaurant;
+   Artist-->Gallery;
 ```
 
 ##### Aligning incentives
